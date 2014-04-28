@@ -33,7 +33,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 Thanks
 
-Charles 
+Charles
+
 [http://wickedsword.com/](http://wickedsword.com/)  
 [Twitter](http://www.twitter.com/RagingClaw/)
 
