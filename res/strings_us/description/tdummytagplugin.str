@@ -1,0 +1,5 @@
+STRINGTABLE Tdummytagplugin
+{
+	Tdummytagplugin         "A Dummy Tag Plugin";
+    BTN_TEXT	 			"I am just a button";
+}
